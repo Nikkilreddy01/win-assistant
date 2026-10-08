@@ -1,0 +1,6 @@
+requests>=2.31.0
+pillow>=10.2.0
+pyperclip>=1.8.2
+pynput>=1.7.6
+pytesseract>=0.3.10
+pyinstaller>=6.0.0

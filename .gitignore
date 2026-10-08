@@ -1,0 +1,14 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.claude/
+build/
+dist/
+scratch/
+test_*.py
+code.txt
+lang.txt
+explanation.txt
+*.spec
+*.exe
