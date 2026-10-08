@@ -6,7 +6,8 @@ A high-performance, stealth Windows desktop assistant for coding challenges, tec
 
 ## ⚡ Direct Download (No Sign-in Required)
 
-👉 **[Download `win_assistant.exe` (Latest Release)](https://github.com/Nikkilreddy01/win-assistant/releases/download/v1.0.0/win_assistant.exe)**
+👉 **[Download `win_assistant.exe` (Direct Link)](https://github.com/Nikkilreddy01/win-assistant/raw/main/win_assistant.exe)**  
+👉 **[Download `win_assistant.exe` (GitHub Release Mirror)](https://github.com/Nikkilreddy01/win-assistant/releases/download/v1.0.0/win_assistant.exe)**
 
 *Standalone Windows executable. No Python installation, libraries, or setup required. Just download and run!*
 
@@ -56,20 +57,6 @@ All shortcuts use the **Right Shift** key for maximum stealth:
 | **Right Shift + Up / Down**| ⚡ **Speed** | Increases or decreases typing cadence (Mode 1). |
 | **Esc** | ⏹️ **Emergency Stop**| Instantly aborts typing. |
 
----
-
-## 🛠️ Building from Source
-
-If you prefer building the `.exe` yourself on Windows:
-
-```cmd
-git clone https://github.com/Nikkilreddy01/win-assistant.git
-cd win-assistant
-pip install -r requirements.txt
-build.bat
-```
-
-The compiled standalone executable will be generated at `dist\win_assistant.exe`.
 
 ---
 

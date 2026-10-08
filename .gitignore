@@ -1,3 +1,6 @@
+*.py
+*.bat
+mcq-assistant/
 venv/
 __pycache__/
 *.pyc
@@ -11,4 +14,4 @@ code.txt
 lang.txt
 explanation.txt
 *.spec
-*.exe
+requirements.txt
